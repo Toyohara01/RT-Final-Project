@@ -1,0 +1,48 @@
+Script started on 2019-12-06 20:18:40-0700
+groups: cannot find name for group ID 1324701249
+groups: cannot find name for group ID 1324701515
+groups: cannot find name for group ID 1324701519
+groups: cannot find name for group ID 1324701605
+groups: cannot find name for group ID 1324701701
+groups: cannot find name for group ID 1324701900
+]0;toyohart@b61-u18-nuc18-ssga: ~/Desktop/sequencer_generictoyohart@b61-u18-nuc18-ssga:~/Desktop/sequencer_generic$ exitsudo tail -f /var/log/syslog | grep "Frame Sampler"
+[sudo] password for toyohart: 
+Dec  6 20:19:04 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K Grab, 0, @ sec, 0.480162
+Dec  6 20:19:06 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K release, 0, @ sec, 2.231035
+Dec  6 20:19:06 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K Grab, 1, @ sec, 2.231035
+Dec  6 20:19:06 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K release, 1, @ sec, 2.481772
+Dec  6 20:19:06 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K Grab, 2, @ sec, 2.481772
+Dec  6 20:19:07 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K release, 2, @ sec, 3.482094
+Dec  6 20:19:07 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K Grab, 3, @ sec, 3.482094
+Dec  6 20:19:08 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K release, 3, @ sec, 4.482561
+Dec  6 20:19:08 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K Grab, 4, @ sec, 4.482561
+Dec  6 20:19:09 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K release, 4, @ sec, 5.483138
+Dec  6 20:19:09 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K Grab, 5, @ sec, 5.483138
+Dec  6 20:19:10 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K release, 5, @ sec, 6.483700
+Dec  6 20:19:10 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K Grab, 6, @ sec, 6.483700
+Dec  6 20:19:11 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K release, 6, @ sec, 7.484130
+Dec  6 20:19:11 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K Grab, 7, @ sec, 7.484130
+Dec  6 20:19:12 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K release, 7, @ sec, 8.484583
+Dec  6 20:19:12 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K Grab, 8, @ sec, 8.484583
+Dec  6 20:19:13 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K release, 8, @ sec, 9.485060
+Dec  6 20:19:13 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K Grab, 9, @ sec, 9.485060
+Dec  6 20:19:14 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K release, 9, @ sec, 10.485458
+Dec  6 20:19:14 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K Grab, 10, @ sec, 10.485458
+Dec  6 20:19:15 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K release, 10, @ sec, 11.485834
+Dec  6 20:19:15 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K Grab, 11, @ sec, 11.485834
+Dec  6 20:19:16 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K release, 11, @ sec, 12.486400
+Dec  6 20:19:16 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K Grab, 12, @ sec, 12.486400
+Dec  6 20:19:17 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K release, 12, @ sec, 13.486803
+Dec  6 20:19:17 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K Grab, 13, @ sec, 13.486803
+Dec  6 20:19:18 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K release, 13, @ sec, 14.487329
+Dec  6 20:19:18 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K Grab, 14, @ sec, 14.487329
+Dec  6 20:19:19 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K release, 14, @ sec, 15.487742
+Dec  6 20:19:19 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K Grab, 15, @ sec, 15.487742
+Dec  6 20:19:20 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K release, 15, @ sec, 16.488264
+Dec  6 20:19:20 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K Grab, 16, @ sec, 16.488264
+Dec  6 20:19:21 b61-u18-nuc18-ssga seqgen: [01;31m[KFrame Sampler[m[K release, 16, @ sec, 17.155109
+^C
+]0;toyohart@b61-u18-nuc18-ssga: ~/Desktop/sequencer_generictoyohart@b61-u18-nuc18-ssga:~/Desktop/sequencer_generic$ exit
+exit
+
+Script done on 2019-12-06 20:19:48-0700

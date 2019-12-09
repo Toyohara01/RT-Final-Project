@@ -1,5 +1,5 @@
 # RT-Final-Project
 
 Make file with 'make' <br />
-Run 'seqgen' file,
-Currently working on seqgen.c to complete RT Final Requirements
+Run with 'sudo ./seqgen' file <br />
+Analyze in seperate command terminal with 'sudo tail -f /var/log/syslog'
